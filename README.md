@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Lundrim Aliu
 - 👀 I’m interested in Front-end Development
-- 🌱 I’m currently learning React.js, C# .Net
+- 🌱 I’m currently learning JavaScript and React
 - 📫 How to reach me aliulundrim22@gmail.com
 - ⚒ My portfolio https://lundrim-portfolio.netlify.app/
 <!---

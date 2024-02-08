@@ -7,7 +7,7 @@ Web Developer
 I love code!!
 
 *   🌍  I'm based in Kosovo
-*   🖥️  See my portfolio at [My Portfolio](http://updated-portfolio-indol-alpha.vercel.app)
+*   🖥️  See my portfolio at [My Portfolio](https://lundrimaliu-portfolio.vercel.app/)
 *   ✉️  You can contact me at [aliulundrim22@gmail.com](mailto:aliulundrim22@gmail.com)
 *   🧠  I'm learning NextJS, ThreeJs and TypeScript
 *   ⚡  I have a cat named Kira

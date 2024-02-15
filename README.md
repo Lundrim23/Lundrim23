@@ -7,6 +7,7 @@
 $ npm start
 ```
 
+<img align="left" src="https://cdn.discordapp.com/attachments/1132255992176971829/1207699414269820948/22.png?ex=65e098ba&is=65ce23ba&hm=b379c2e8a42b80cd14a1f1514a704a55a902e75360c1fedeeca8318a3c56134b&" alt="" height="239" /> 
 
 ```ts
 AboutMe {
@@ -14,6 +15,7 @@ AboutMe {
   location: "Prishtine, Kosovo",
   interests: [
     "Web Development",
+    "Software Development"
     "UI/UX",
   ],
   Portfolio: "https://main--lundrim-aliu.netlify.app/"

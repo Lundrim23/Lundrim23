@@ -14,7 +14,7 @@ AboutMe {
   location: "Prishtine, Kosovo",
   interests: [
     "Web Development",
-    "Software Development",
+    "Softwere Development",
     "UI/UX",
   ],
   Portfolio: "https://main--lundrim-aliu.netlify.app/"

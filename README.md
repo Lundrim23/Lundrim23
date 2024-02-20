@@ -15,7 +15,6 @@ AboutMe {
   interests: [
     "Web Development",
     "Softwere Development",
-    "Game Development"
     "UI/UX",
   ],
   Portfolio: "https://main--lundrim-aliu.netlify.app/"

@@ -26,7 +26,7 @@ AboutMe {
 
 <p align="center">
   <a href="https://main--lundrim-aliu.netlify.app/">
-    <img src="https://skillicons.dev/icons?i=git,github,cs,dotnet,js,ts,react,redux,nextjs,tailwind,materialui,sass,nodejs,mongodb,&coding=cute" />
+    <img src="https://skillicons.dev/icons?i=git,github,cs,dotnet,js,react,redux,nextjs,tailwind,materialui,sass,nodejs,mongodb,&coding=cute" />
   </a>
 </p>
 

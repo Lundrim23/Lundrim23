@@ -15,7 +15,8 @@ AboutMe {
   interests: [
     "Web Development",
     "Softwere Development",
-    "UI/UX",
+    "Networking",
+    "Hacking"
   ],
   Portfolio: "https://main--lundrim-aliu.netlify.app/"
   discord: "ll0rdi",

@@ -11,7 +11,7 @@ $ npm start
 ```ts
 AboutMe {
   name: "Lundrim Aliu,
-  location: "Prishtine, Kosovo",
+  location: "Prishtine, Kosovo"
   interests: [
     "Web Development",
     "Softwere Development",

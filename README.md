@@ -19,7 +19,7 @@ AboutMe {
     "Hacking"
   ],
   Portfolio: "https://main--lundrim-aliu.netlify.app/"
-  discord: "ll0rdi",
+  discord: "ll0rdi"
   X: "Lundrim_aliu"
 }
 ```

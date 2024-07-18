@@ -10,7 +10,7 @@ $ npm start
 
 ```ts
 AboutMe {
-  name: "Lundrim,
+  name: "Lundrim",
   location: "Prishtine, Kosovo"
   interests: [
     "Web Development",

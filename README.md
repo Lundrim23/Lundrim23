@@ -4,7 +4,7 @@
 </p>
 
 ```php
-$ npm start
+$ whoami
 ```
 
 

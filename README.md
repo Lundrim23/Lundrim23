@@ -13,10 +13,10 @@ AboutMe {
   name: "Lundrim",
   location: "Prishtine, Kosovo",
   interests: [
-    "Web Development",
-    "Softwere Development",
+    "Hacking",
     "Networking",
-    "Hacking"
+    "Web Development",
+    "Softwere Development"
   ],
   Portfolio: "https://main--lundrim-aliu.netlify.app/",
   discord: "ll0rdi",

@@ -18,9 +18,7 @@ AboutMe {
     "Web Development",
     "Softwere Development"
   ],
-  Portfolio: "https://main--lundrim-aliu.netlify.app/",
-  discord: "ll0rdi",
-  X: "Lundrim_aliu"
+  discord: "ll0rdi"
 }
 ```
 

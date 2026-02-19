@@ -18,7 +18,8 @@ AboutMe {
     "Web Development",
     "Softwere Development"
   ],
-  discord: "ll0rdi"
+  discord: "ll0rdi",
+  email: "aliulundrim22@gmail.com"
 }
 ```
 
